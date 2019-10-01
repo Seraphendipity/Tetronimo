@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TetrisGrid",
+            "request": "launch",
+            "mainClass": "cs203.hw02.tetris.TetrisGrid",
+            "projectName": "tetris"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TetrisViewer",
+            "request": "launch",
+            "mainClass": "cs203.hw02.tetris.TetrisViewer",
+            "projectName": "tetris"
+        }
+    ]
+}
